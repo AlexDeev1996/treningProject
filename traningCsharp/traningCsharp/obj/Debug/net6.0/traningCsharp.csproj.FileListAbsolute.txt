@@ -1,0 +1,15 @@
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\bin\Debug\net6.0\traningCsharp.exe
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\bin\Debug\net6.0\traningCsharp.deps.json
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\bin\Debug\net6.0\traningCsharp.runtimeconfig.json
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\bin\Debug\net6.0\traningCsharp.dll
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\bin\Debug\net6.0\traningCsharp.pdb
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.csproj.AssemblyReference.cache
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.AssemblyInfoInputs.cache
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.AssemblyInfo.cs
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.dll
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\refint\traningCsharp.dll
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.pdb
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\traningCsharp.genruntimeconfig.cache
+C:\Users\Alex\treningProject\traningCsharp\traningCsharp\obj\Debug\net6.0\ref\traningCsharp.dll
